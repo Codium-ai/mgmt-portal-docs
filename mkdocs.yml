@@ -2,54 +2,19 @@ site_name: Codiumate
 
 nav: 
   - 'index.md'
-  - Installation:
-    - 'installation/index.md'
-    - VSCode: 'installation/vscode.md'
-    - JetBrains: 'installation/jetbrains.md'
-    - Subscription Plans: 'installation/plans.md'
-    - OptOut: 'installation/opt-out.md'
-    - Extension Setting: 'installation/extension-settings.md'
-  - Test Generation:
-    - 'tests/index.md'
-    - How to use: 'tests/how-to-use.md'
-    - Behaviors: 'tests/behaviors.md'
-    - Test Suite: 'tests/test-suite.md'
-    - Configuration: 'tests/configuration.md'
-    - Example Test: 'tests/example-test.md'
-    - Context Tab: 'tests/context.md'
-    - Running Tests: 'tests/running-tests.md'
-    - Extend Test Suite: 'tests/extend.md'
-    - Supported Languages: 'tests/supported-languages.md'
-  - Chat:
-    - 'chat/index.md'
-    - Chat Modes:
-      - 'chat/modes/index.md'
-      - Free Chat Mode: 'chat/modes/free-chat.md'
-      - File Mode: 'chat/modes/file-mode.md'
-      - Coding-Agent Mode: 'chat/modes/coding-agent-mode.md'
-      - Workspace Mode: 'chat/modes/workspace-mode.md'
-    - Commands:
-      - 'chat/commands/index.md'
-      - /ask: 'chat/commands/ask.md'
-      - /docstring: 'chat/commands/docstring.md'
-      - /enahnce: 'chat/commands/enhance.md'
-      - /explain: 'chat/commands/explain.md'
-      - /improve: 'chat/commands/improve.md'
-      - /test-suite: 'chat/commands/test-suite.md'
-      - /quick-test: 'chat/commands/quick-test.md'
-      - /find-on-github: 'chat/commands/find-on-github.md'
-      - /commit: 'chat/commands/commit.md'
-      - /describe: 'chat/commands/describe.md'
-      - /review: 'chat/commands/review.md'
-      - /issues: 'chat/commands/issues.md'
-      - /recap: 'chat/commands/recap.md'
-      - /changelog: 'chat/commands/update-changelog.md'
-    - Add Context: 'chat/add-context.md'
-    - Coding-Agent: 'chat/coding-agent.md'
-    - Threads: 'chat/threads.md'
-    - Images: 'chat/images.md'
-  - Code Completion:
-    - 'code-completion/index.md'
+  - Free & Teams:
+    - 'free-and-teams/index.md'
+    - Members Management: 'free-and-teams/members-management.md'
+    - Account Management: 'free-and-teams/account-management.md'
+    - Usage: 'free-and-teams/usage.md'
+    - SSO: 'free-and-teams/sso.md'
+  - Enterprise:
+    - 'enterprise/index.md'
+    - Members Management: 'enterprise/members-management.md'
+    - Usage: 'enterprise/usage.md'
+    - SSO: 'enterprise/sso.md'
+  - PR-Agent Pro:
+    - 'pr-agent-pro/index.md'
 
 theme:
   logo: assets/logo.svg
