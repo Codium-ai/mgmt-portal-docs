@@ -1,6 +1,6 @@
 ---
 title: Codiumate Code Completion
-icon: fontawesome/solid/code
+icon: fontawesome/solid/gem
 ---
 
 # :fontawesome-solid-code: Codiumate Code-Completion

@@ -8,17 +8,18 @@ hide:
 ---
 
 
-# Welcome to Codiumate
+# Welcome to the Management Portal Documentation
 
 <h3 class="bold-green" markdown>
-**Code, Test, and Review with Confidence - Your AI Mate by CodiumAI**
+**Manage and get insights for your account, team, or organization.**
 </h3>
 
 Welcome to Codiumate, your AI-powered coding companion designed to enhance your software development cycle. From generating tests to writing and reviewing code, Codiumate offers a suite of tools to increase efficiency, improve code quality, and streamline your development process.
 
 ## Getting started
 
-Codiumate seamlessly integrates with your favorite IDEs:
+Your management portal is accessible at https://app.codium.ai/
+Or, at your CodiumAI-logo menu on your IDE extensions:
 
 <div class="grid cards" markdown>
 
@@ -43,21 +44,18 @@ Codiumate comes packed with features to enhance every step of your development c
 
 | Method      | Description                          |
 | ----------- | ------------------------------------ |
-| **[Iterative Test Generation](./tests/index.md)**  | Automatically generate comprehensive test suites tailored to your codebase, ensuring high code quality and reliability.  |
-| **[Intelligent Code Assistance](./chat/modes/file-mode.md)** | Receive real-time suggestions and solutions for coding queries, documentation, debugging, and more. |
-| **[Efficient PR Reviews](./chat/modes/workspace-mode.md)** | Simplify your pull request review process with AI-powered insights, highlighting potential issues and improvements. |
-| **[Smart Code Completion](./code-completion/index.md)** | Enhance your coding efficiency with AI-driven suggestions that anticipate your needs and complete code faster. |
-| **[Coding-Agent](./chat/coding-agent.md)** | Empower your coding process with an AI-powered assistant that generates detailed task implementation plans and provides you with step-by-step guidance and actionable insights to efficiently tackle coding tasks. |
+| **[Manage Account](./free-and-teams/account-management.md)**  | Upgrade your account to gain access to premium features, Edit account details and payment methods, and view invoices.  |
+| **[Manage Teams & Roles](./free-and-teams/team-management.md)** | Invite team members for sharing resources to ease payments and onboarding. Make use of roles to help you manage your account. |
+| **[Manage Organizations & Roles](./enterprise/team-management.md)** | Simplify your pull request review process with AI-powered insights, highlighting potential issues and improvements. |
+| **[Get Insights](./enterprise/dashboard.md)** | Get statistics of usage and tools ROI on the individual, team, and organization levels [Currently available for Enterprise plan only, coming soon to all other plans]. |
+| **[Connect your PR-Agent Pro](./pr-agent-pro/index.md)** | Connect your git provider account to your CodiumAI account to enjoy a. |
 
 
-## Supported languages
+## The Home Tab
 
 Codiumate supports ALL programming languages for test generation, with enhanced support and features for:
 
-- Python
-- JavaScript
-- TypeScript
-- Java
+![home_tab](./assets/home_tab.png)  
 
 **[Learn more about language support](./tests/supported-languages.md)**
 
