@@ -14,11 +14,12 @@ hide:
 **Manage and get insights for your account, team, or organization.**
 </h3>
 
-Welcome to Codiumate, your AI-powered coding companion designed to enhance your software development cycle. From generating tests to writing and reviewing code, Codiumate offers a suite of tools to increase efficiency, improve code quality, and streamline your development process.
+Welcome to CodiumAI's Insight-Agent, designed to enhance your understanding your interaction with the other agents, to gain important insights on software development metrics of you, your team or your organization and get a clear ROI view of using CodiumAI's agent suite.
+
 
 ## Getting started
 
-Your management portal is accessible at https://app.codium.ai/
+Your management portal is accessible at [app.codium.ai](https://app.codium.ai/)
 Or, at your CodiumAI-logo menu on your IDE extensions:
 
 <div class="grid cards" markdown>
@@ -32,10 +33,6 @@ Or, at your CodiumAI-logo menu on your IDE extensions:
     [:octicons-arrow-right-24: Install Codiumate plugin for all JetBrains IDEs](https://plugins.jetbrains.com/plugin/21206-codiumate--code-test-and-review-with-confidence--by-codiumai)
 
 </div>
-
-## Release Notes
-
-### **[:octicons-arrow-right-24: Visit our Release Notes portal for the latest news](https://release-notes.codium.ai)**
 
 
 ## Main capabilities
@@ -61,7 +58,7 @@ Codiumate supports ALL programming languages for test generation, with enhanced 
 
 ## Join the community
 
-If you need assistance or have questions about Codiumate, feel free to join our community on GitHub Discussions for **[VSCode :simple-visualstudiocode:](https://github.com/Codium-ai/codiumai-vscode-release/issues)** or for **[JetBrains :simple-jetbrains:](https://github.com/Codium-ai/codiumai-jetbrains-release/issues)**, or join our **[Discord community]()**.
+If you need assistance or have questions about The Management Portal, feel free to email us at **<support@codium.ai>  or join our **[Discord community]()**.
 
 
 <h3 class="bold-green" markdown>
