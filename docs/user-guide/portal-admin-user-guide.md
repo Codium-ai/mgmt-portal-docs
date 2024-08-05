@@ -1,5 +1,5 @@
 ---
-title: Portal Admin user Guide
+title: Portal Admin User Guide
 icon:
 
 ---
@@ -157,21 +157,6 @@ Dashboard. The dashboard offers the following features:
 4.  Click " **Invites**" to dispatch the invitations.
 
 
-### Accepting an Invitation to join Codium
-
-1.  Open your email inbox associated with the invitation. Look for an email from
-    Codium with the subject line "**Join your team - enjoy CodiumAI**".
-
-2.  Inside the email, locate and click on the "**Accept the Invite**" button.
-    This will redirect you to the Codium login
-  
-    ![accepting_invitation](../assets/accepting_invitation.png)
-
-3.  Enter the same email address that received the invitation.
-
-4.  Click the "**Continue with email**" button to access your Codium account. Click the **Login** button to access your Codium account.
-
-
 ## Managing Your Team in Codium
 
 The "My Team" section in Codium allows you to create new teams, manage existing
@@ -217,7 +202,10 @@ team’s subscription or plan details.
 To disband the team, select "Close Team" from the dropdown menu. Confirm your
 action if prompted.
 
-![close_team](../assets/close_team.png)
+![close_team](../assets/removing_team.png)
+
+**Note**: Removing your team will remove current team members and terminate the
+existing subscription.
 
 ## Removing Team Members
 
@@ -265,3 +253,53 @@ upgrade your plan.
     ![subscription](../assets/subscription.png)
 
 3.  Click the "Subscibe" button to start the upgrade process.
+
+
+## Invoice History
+
+You can easily access and manage your invoices on Codium, To manage invoices,
+follow the steps outline below:
+
+1.  Click the "**Manage Team**" button located in the upper right corner of each
+    team.
+    
+    ![subscription](../assets/manage_team.png)
+
+2.  Select "**Manage Plan**" to view your team’s subscription or plan
+    details.
+    
+    ![subscription](../assets/subscription_.png)
+
+3.  Scroll down to the end of the Plan section to view the **INVOICE HISTORY**
+    section where you can view the status of your invoices (paid or unpaid).
+
+4.  In the **INVOICE HISTORY** section, find the invoice you wish to view.
+
+5.  Click on the **Download Invoice** or **Download Receipt** Receipt button next to the
+    invoice. The invoice will be downloaded as a PDF
+    file.
+    
+    ![subscription](../assets/invoice_receipt_.png)
+
+## Cancel Subscription
+
+To cancel an existing subscription, Follow the steps outline below:
+
+1.  In your team’s subscription or plan details page, Click the **Cancel Plan**
+    Button.
+    
+    ![subscription](../assets/subscription__.png)
+
+2.  Review the information provided, including any details about the remaining
+    subscription. Confirm your decision by clicking on **Cancel Plan**
+    button.
+    
+    ![subscription](../assets/cancel_plan.png)
+
+3.  You will be asked to provide feedback on why you are cancelling. This step
+    is optional.
+
+4.  Ensure that your subscription status in the **Billing** section reflects the
+    cancellation.
+    
+    ![subscription](../assets/cancel_plan_final.png)
