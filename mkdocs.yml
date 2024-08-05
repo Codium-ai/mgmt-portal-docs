@@ -15,6 +15,9 @@ nav:
     - SSO: 'enterprise/sso.md'
   - PR-Agent Pro:
     - 'pr-agent-pro/index.md'
+  - User-Guide:
+    - 'user-guide/portal-user-guide.md'   
+    - 'user-guide/portal-admin-user-guide.md'     
 
 theme:
   logo: assets/logo.svg
