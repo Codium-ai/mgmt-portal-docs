@@ -17,7 +17,8 @@ nav:
     - 'pr-agent-pro/index.md'
   - User-Guide:
     - 'user-guide/portal-user-guide.md'   
-    - 'user-guide/portal-admin-user-guide.md'     
+    - 'user-guide/portal-admin-user-guide.md'    
+    - 'user-guide/portal-user-guide-entireprise.md'  
 
 theme:
   logo: assets/logo.svg
