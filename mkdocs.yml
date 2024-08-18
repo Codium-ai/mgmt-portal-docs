@@ -2,23 +2,13 @@ site_name: Management Portal Documentation
 
 nav: 
   - 'index.md'
-  - Free & Teams:
-    - 'free-and-teams/index.md'
-    - Members Management: 'free-and-teams/members-management.md'
-    - Account Management: 'free-and-teams/account-management.md'
-    - Usage: 'free-and-teams/usage.md'
-    - SSO: 'free-and-teams/sso.md'
-  - Enterprise:
-    - 'enterprise/index.md'
-    - Members Management: 'enterprise/members-management.md'
-    - Usage: 'enterprise/usage.md'
-    - SSO: 'enterprise/sso.md'
-  - PR-Agent Pro:
-    - 'pr-agent-pro/index.md'
-  - User-Guide:
-    - 'user-guide/portal-user-guide.md'   
-    - 'user-guide/portal-admin-user-guide.md'    
-    - 'user-guide/portal-user-guide-entireprise.md'  
+  - Developer & Teams plans members:
+    - 'developer-and-teams-member/index.md'
+  - Teams plan admin:
+    - 'teams-admin/index.md'
+  - Enterprise plan admin:
+    - 'enterprise-admin/index.md'
+
 
 theme:
   logo: assets/logo.svg

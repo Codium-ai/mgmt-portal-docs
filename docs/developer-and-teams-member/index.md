@@ -1,6 +1,6 @@
 ---
 title: Portal User Guide
-icon:
+icon: fontawesome/solid/user-group
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Portal Admin User Guide (Enterprise) 
-icon:
+title: Portal Admin User Guide
+icon: fontawesome/solid/user-group
 
 ---
 
@@ -181,27 +181,21 @@ To create a new team, follow the steps outline below:
 
     ![team_list](../assets/team_list.png)
 
-5.  To move between the teams, click the team's dropdown menu.
- 
-     ![team_list](../assets/teams_enterise.png)
-
 
 ## Managing Your Team
 
-The manage team feature allows you to manage existing teams, manage plan, manage environment, manage SSO  and close team. Click the **Manage Team** button located in the upper right corner of each team. 
+The manage team feature allows you to manage existing teams, manage plan, manage
+SSO and close team. Click the "**Manage Team**" button located in the upper
+right corner of each team.  
 
-![manage_team](../assets/manage_team_enterprise.png)
-
-#### Manage Enviroment
-
-In the Enviroment, you can select the different environment for your team.
+![manage_team](../assets/manage_team.png)
 
 #### Manage Plan
 
-In the dropdown menu under "Manage Team," select "Manage Plan" to adjust your team’s subscription or plan details.
+In the dropdown menu under "Manage Team," select "Manage Plan" to adjust your
+team’s subscription or plan details.
 
 ![update_plan](../assets/update_plan.png)
-
 
 #### Close Team
 
@@ -309,117 +303,3 @@ To cancel an existing subscription, Follow the steps outline below:
     cancellation.
     
     ![subscription](../assets/cancel_plan_final.png)
-
-
-
-
-## Organization
-
-**Organization** tab in Codium enable you can manage users, assign roles, and configure environments.
-
-### Invite Member
-
-1.  On the dashboard, locate and click on the "**Invite Member**" link. The invite member page will be displayed.  
-
-
-    ![subscription](../assets/invite_member_drop_file.png)
-
-2.  Enter the email addresses of the individuals you wish to invite to the Codium community.
-
-3.  It is also possible to extend an invitation to members from the file. To invite members from a file, simply place the file in the "**Drop file here**" position.
-
-4.  Click " **Invites**" to dispatch the invitations.
-
-### Add and Manage Member
-
-Once added, you can assign roles to each user:
-
--   **Team Role:** Assign the user a role within a specific team (e.g., Admin or Member).
-
--   **Organization Role:** Set the user’s role within the organization as a whole (e.g., Admin or Member).
-
-You can also check the status of each user
-
--   **Registered:** Indicates that the user has accepted the invitation and is part of the organization.
-
--   **Invited:** Indicates that the user has been invited but has not yet registered
-
-    ![subscription](../assets/user.png)
-
-
-### Select Environments
-
-Within the **Organization** tab, you can select different environments for your users:
-
--   **SaaS:** Software-as-a-Service environment.
-
--   **Test AWS:** A testing environment on Amazon Web Services.
-
--   **JetBrains:** Integrated development environments (IDEs) by JetBrains.
-
--   **Own AWS:** A custom Amazon Web Services environment.
-
-Assign specific environments to users based on their roles and needs.
-
-![subscription](../assets/env_1.png)
-
-## Managing the Organization
-
-Within the **Organization** tab, select the **Manage Organization** dropdown menu. This dropdown provides the following options:  
-
-
-![subscription](../assets/enterprise_manage_org.png)
-
-
--   **Create a Team:**
-
-    -   Select this option to create a new team within your organization.
-
-    -   You can name the team and assign team
-
-        ![subscription](../assets/create_team_ent.png)
-
--   **Manage Environment:**
-
-    -   Use this option to manage and configure the different environments
-        available in your organization.
-
-    -   Create new environments to teams or individual users as needed.
-
-        ![subscription](../assets/manage_env_ent.png)
-
--   **Manage SSO:**
-
-    -   Single Sign-On (SSO) management allows you to configure and control
-        access to your organization using SSO settings.
-
-    -   Ensure that SSO settings align with your organization’s security
-        policies.
-
-## Dashboard
-
-This section provides high-level summary metrics that give a quick snapshot of
-overall performance. It may include metrics such as number of active user, Trigger per day etc.
-
-![subscription](../assets/dashboard_ent.png)
-
-
-
-## Invite only enterprise
-
-Invite-only members are users who are only considered part of the organization once they receive and accept an invitation. Users do not automatically become members, but they become exclusively associated with the organization through an invitation process. This approach allows the organization to maintain tighter control over who can join and access its resources.
-
-
-### Pending Status
-
-After the invitation is sent, these users are  marked with an "Access Pending" status until they accept the invitation. 
-
-
-![subscription](../assets/access.png)
-
-
-### Controlled Access
-
- Admins can manage who gets invited, allowing for controlled and secure access to the organization's resources. Once an invitation is pending, the admin will receive a notification in the dashboard.
-
-![subscription](../assets/invitation.png)
