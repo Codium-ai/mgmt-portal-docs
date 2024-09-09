@@ -4,8 +4,19 @@ nav:
   - 'index.md'
   - Developer & Teams plans members:
     - 'developer-and-teams-member/index.md'
+    - Sign up and Account Settings: 'general/signin-and-settings.md'
+    - Home Page Functionalities: 'general/main.md'
+    - Team Member functionalities: 'general/basic-team.md'
+    - Connect PR-Agent: 'general/pr-agent.md'
   - Teams plan admin:
     - 'teams-admin/index.md'
+    - Sign up and Account Settings: 'general/signin-and-settings.md'
+    - Home Page Functionalities: 'general/main.md'
+    - Team Member Functionalities: 'general/basic-team.md'
+    - Team Admin Functionalities: 'teams-admin/manage-team.md'
+    - Manage Teams' Plan: 'teams-admin/manage-plan.md'
+    - Connect PR-Agent: 'general/pr-agent.md'
+    
   - Enterprise plan admin:
     - 'enterprise-admin/index.md'
 

@@ -19,7 +19,8 @@ Welcome to CodiumAI's Insight-Agent, designed to enhance your understanding your
 
 ## Getting started
 
-Your management portal is accessible at [app.codium.ai](https://app.codium.ai/)
+<div class="grid cards" markdown>
+Your management portal is accessible at [**app.codium.ai**](https://app.codium.ai/)</div>
 Or, at your CodiumAI-logo menu on your IDE extensions:
 
 <div class="grid cards" markdown>
@@ -41,11 +42,11 @@ Codiumate comes packed with features to enhance every step of your development c
 
 | Method      | Description                          |
 | ----------- | ------------------------------------ |
-| **[Manage Account](./free-and-teams/account-management.md)**  | Upgrade your account to gain access to premium features, Edit account details and payment methods, and view invoices.  |
-| **[Manage Teams & Roles](./free-and-teams/team-management.md)** | Invite team members for sharing resources to ease payments and onboarding. Make use of roles to help you manage your account. |
-| **[Manage Organizations & Roles](./enterprise/team-management.md)** | Simplify your pull request review process with AI-powered insights, highlighting potential issues and improvements. |
-| **[Get Insights](./enterprise/dashboard.md)** | Get statistics of usage and tools ROI on the individual, team, and organization levels [Currently available for Enterprise plan only, coming soon to all other plans]. |
-| **[Connect your PR-Agent Pro](./pr-agent-pro/index.md)** | Connect your git provider account to your CodiumAI account to enjoy a. |
+| **[Manage Account](./teams-admin/index.md)**  | Upgrade your account to gain access to premium features, Edit account details and payment methods, and view invoices.  |
+| **[Manage Teams & Roles](./teams-admin/index.md)** | Invite team members for sharing resources to ease payments and onboarding. Make use of roles to help you manage your account. |
+| **[Manage Organizations & Roles](./enterprise-admin/index.md)** | Simplify your pull request review process with AI-powered insights, highlighting potential issues and improvements. |
+| **[Get Insights](./enterprise-admin/dashboard.md)** | Get statistics of usage and tools ROI on the individual, team, and organization levels [Currently available for Enterprise plan only, coming soon to all other plans]. |
+| **[Connect your PR-Agent Pro](./general/pr-agent.md)** | Connect your git provider account to your CodiumAI account to enjoy a. |
 
 
 ## The Home Tab
@@ -54,11 +55,9 @@ Codiumate supports ALL programming languages for test generation, with enhanced 
 
 ![home_tab](./assets/home_tab.png)  
 
-**[Learn more about language support](./tests/supported-languages.md)**
-
 ## Join the community
 
-If you need assistance or have questions about The Management Portal, feel free to email us at **<support@codium.ai>  or join our **[Discord community]()**.
+If you need assistance or have questions about The Management Portal, feel free to email us at **<support@codium.ai>**  or join our [**Discord community**](https://discord.com/invite/kG35uSHDBc).
 
 
 <h3 class="bold-green" markdown>

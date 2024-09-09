@@ -1,4 +1,5 @@
 ---
+title: Portal Admin User Guide (Enterprise) 
 icon: fontawesome/solid/building
 
 ---
