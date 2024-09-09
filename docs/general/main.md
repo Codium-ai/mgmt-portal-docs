@@ -14,7 +14,7 @@ Dashboard. The dashboard offers the following features:
 
 -   Invite members to join dIscord community, and
 
--   invitie team members to join your team.
+-   Invite team members to join your team.
 
 ## Install Codium Extension for Supported IDEs 
 

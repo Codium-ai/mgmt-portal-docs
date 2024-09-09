@@ -15,9 +15,7 @@ team’s subscription or plan details.
 
 ## Upgrading plan
 
-To ensure your team has access to the best features and resources Codium has to
-offer, you can upgrade your existing plan easily. Follow the steps below to
-upgrade your plan.
+Upgrade your plan to ensure your team has access to the best features and resources Codium has to offer. Follow the steps below to upgrade your plan.
 
 1.  Click on the "Upgrade Now" button located at the top upper corner of the
     dashboard.  
@@ -29,13 +27,12 @@ upgrade your plan.
 
     ![subscription](../assets/subscription.png)
 
-3.  Click the "Subscibe" button to start the upgrade process.
+3.  Click the "Subscribe" button to start the upgrade process.
 
 
 ## Invoice History
 
-You can easily access and manage your invoices on Codium, To manage invoices,
-follow the steps outline below:
+You can easily access and manage your invoices on the portal.
 
 1.  Click the "**Manage Team**" button located in the upper right corner of each
     team.
@@ -53,17 +50,16 @@ follow the steps outline below:
 4.  In the **INVOICE HISTORY** section, find the invoice you wish to view.
 
 5.  Click on the **Download Invoice** or **Download Receipt** Receipt button next to the
-    invoice. The invoice will be downloaded as a PDF
-    file.
+    invoice. The invoice will be downloaded as a PDF file.
     
     ![subscription](../assets/invoice_receipt.png)
 
 ## Cancel Subscription
 
-To cancel an existing subscription, Follow the steps outline below:
+To cancel an existing subscription:
 
 1.  In your team’s subscription or plan details page, Click the **Cancel Plan**
-    Button.
+    button.
     
     ![subscription](../assets/subscription_.png)
 

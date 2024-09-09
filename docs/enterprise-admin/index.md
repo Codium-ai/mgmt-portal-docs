@@ -4,7 +4,8 @@ icon: fontawesome/solid/building
 ---
 
 # Organization Administrators
-This page descripbes all the possible functionalities available to administrators of organizations in the Enterprise plan.
+
+This page describes all the possible functionalities available to administrators of organizations in the Enterprise plan.
 
 ## Managing Your Organization in CodiumAI
 

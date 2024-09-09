@@ -10,22 +10,26 @@ hide:
 
 # Welcome to the Management Portal Documentation
 
-<h3 class="bold-green" markdown>
+<h3 class="black" markdown>
 **Manage and get insights for your account, team, or organization.**
 </h3>
 
-Welcome to CodiumAI's Insight-Agent, designed to enhance your understanding your interaction with the other agents, to gain important insights on software development metrics of you, your team or your organization and get a clear ROI view of using CodiumAI's agent suite - TBD.
+Welcome to CodiumAI's Insight-Agent, designed to:
+
+- Enhance your interaction with other agents.
+- Gain important insights and metrics on your team's software development.
+- **[TBD]** Get a clear ROI view of your usage of CodiumAI's agent suite.
 
 
 ## Getting started
 
 <div class="grid cards" markdown>
-Your management portal is accessible at [**app.codium.ai**](https://app.codium.ai/)</div>
-Or, at your CodiumAI-logo menu on your IDE extensions:
+Go to your management portal at [**app.codium.ai**](https://app.codium.ai/)</div>
+Alternatively, you can access the portal from Codiumate: click the three dots at the top-right of the extension, then choose User Portal.
 
 <div class="grid cards" markdown>
 
-- :simple-visualstudiocode: __VSCode__ 
+-  __VSCode__ 
 
     [:octicons-arrow-right-24: Install Codiumate extension for VSCode](https://marketplace.visualstudio.com/items?itemName=Codium.codium)
 
@@ -38,20 +42,18 @@ Or, at your CodiumAI-logo menu on your IDE extensions:
 
 ## Main capabilities
 
-Codiumate comes packed with features to enhance every step of your development cycle:
+Codiumate's User Portal comes packed with features to enhance every step of your development cycle:
 
 | Method      | Description                          |
 | ----------- | ------------------------------------ |
 | **[Manage Account](./developer-and-teams-member/index.md)**  | TBD |
 | **[Manage Teams & Roles](./teams-admin/index.md)** | Upgrade your account to gain access to premium features, Edit account details and payment methods, and view invoices. |
-| **[Manage Organizations & Roles](./enterprise-admin/index.md)** | Manage enterprise features TBD |
+| **[Manage Organizations & Roles](./enterprise-admin/index.md)** | TBD Manage enterprise features. |
 | **[Get Insights](./enterprise-admin/dashboard)** | Get statistics of usage and tools ROI on the individual, team, and organization levels [Currently available for Enterprise plan only, coming soon to all other plans]. |
-| **[Connect your PR-Agent Pro](./general/pr-agent)** | Connect your git provider account to your CodiumAI account to enjoy the best PR review tool. |
+| **[Connect your PR-Agent Pro](./general/pr-agent)** | Get the best PR review tool by connecting your git provider and CodiumAI accounts. |
 
 
 ## The Home Tab
-
-Codiumate supports ALL programming languages for test generation, with enhanced support and features for:
 
 ![home_tab](./assets/home_tab.png)  
 
@@ -60,6 +62,6 @@ Codiumate supports ALL programming languages for test generation, with enhanced 
 If you need assistance or have questions about The Management Portal, feel free to email us at **<support@codium.ai>**  or join our [**Discord community**](https://discord.com/invite/kG35uSHDBc).
 
 
-<h3 class="bold-green" markdown>
+<h3 class="black" markdown>
 **Welcome aboard and happy coding!**
 </h3>

@@ -7,10 +7,10 @@ icon: fontawesome/solid/people-group
 
 ### Creating a New Team
 
-To create a new team, follow the steps outline below:
+To create a new team:
 
-1.  On the Codium dashboard, locate and click on the "**My Team**" tab. Click on
-    the "**Create Team**" button.  
+1.  On the Codium dashboard, select the "**My Team**" tab, then click on
+    the "**Create Team**" button. 
 
     ![create_team](../assets/create_team.png)
 
@@ -54,10 +54,9 @@ to the right of the member’s name.
 
 ## Inviting Team Members
 
-You can add new members to the team by inviting them. To invite an team member,
-follow the steps outline below:
+You can add new members to the team by inviting them. To invite an team member:
 
-1.  In the "My Team" section, click on the "**Invite Member**" button.The invite
+1.  In the "My Team" section, click on the "**Invite Member**" button. The invite
     member page will be displayed.  
 
     ![invite_member_1](../assets/invite_member_1.png)
@@ -65,9 +64,9 @@ follow the steps outline below:
 2.  Enter the email addresses of the individuals you wish to invite to the
     Codium community.
 
-3.  It is also possible to extend an invitation to members from the file. To
+3.  It is also possible to extend an invitation to members from a file. To
     invite members from a file, simply place the file in the "**Drop file
     here**" position.
 
-4.  Click " **Invites**" to dispatch the invitations.
+4.  Click "**Invites**" to dispatch the invitations.
 
