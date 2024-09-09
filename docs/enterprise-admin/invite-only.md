@@ -7,7 +7,9 @@ icon: fontawesome/solid/building
 
 ## Invite only enterprise
 
-Invite-only members are users who are only considered part of the organization once they receive and accept an invitation. Users do not automatically become members, but they become exclusively associated with the organization through an invitation process. This approach allows the organization to maintain tighter control over who can join and access its resources.
+Invite-only members are users who are only considered part of the organization once they receive and accept an invitation.
+
+Users do not automatically become members, but they become exclusively associated with the organization through an invitation process. This approach allows the organization to maintain tighter control over who can join and access its resources.
 
 
 ### Pending Status

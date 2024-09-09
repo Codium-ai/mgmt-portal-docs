@@ -5,8 +5,6 @@ icon: fontawesome/solid/laptop-code
 
 ## Sign Up
 
-To sign up, follow the steps outline below:
-
 ### Step 1: Access the Sign Up page
 
 Open your web browser and navigate to the codium sign-in page [(https://app.codium.ai/signin)](https://app.codium.ai/signin) 
