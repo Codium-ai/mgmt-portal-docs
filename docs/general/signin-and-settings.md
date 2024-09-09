@@ -1,4 +1,7 @@
+---
+icon: fontawesome/solid/laptop-code
 
+---
 
 ## Sign Up
 

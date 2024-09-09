@@ -1,5 +1,8 @@
+---
+icon: fontawesome/solid/people-group
 
-# Teams' Plan Administrators
+---
+# Team Administrators Functionalities
 
 
 ### Creating a New Team

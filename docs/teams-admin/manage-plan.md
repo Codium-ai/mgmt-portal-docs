@@ -1,5 +1,8 @@
+---
+icon: fontawesome/solid/people-group
 
-# Teams' Plan Administrators
+---
+# Manage Teams' Plan
 
 
 #### Manage Plan

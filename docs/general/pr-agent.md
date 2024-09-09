@@ -1,4 +1,7 @@
+---
+icon: fontawesome/solid/laptop-code
 
+---
 
 ## Connect PR-Agent to Your Repository
 

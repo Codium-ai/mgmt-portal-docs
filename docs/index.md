@@ -14,7 +14,7 @@ hide:
 **Manage and get insights for your account, team, or organization.**
 </h3>
 
-Welcome to CodiumAI's Insight-Agent, designed to enhance your understanding your interaction with the other agents, to gain important insights on software development metrics of you, your team or your organization and get a clear ROI view of using CodiumAI's agent suite.
+Welcome to CodiumAI's Insight-Agent, designed to enhance your understanding your interaction with the other agents, to gain important insights on software development metrics of you, your team or your organization and get a clear ROI view of using CodiumAI's agent suite - TBD.
 
 
 ## Getting started
@@ -42,11 +42,11 @@ Codiumate comes packed with features to enhance every step of your development c
 
 | Method      | Description                          |
 | ----------- | ------------------------------------ |
-| **[Manage Account](./teams-admin/index.md)**  | Upgrade your account to gain access to premium features, Edit account details and payment methods, and view invoices.  |
-| **[Manage Teams & Roles](./teams-admin/index.md)** | Invite team members for sharing resources to ease payments and onboarding. Make use of roles to help you manage your account. |
-| **[Manage Organizations & Roles](./enterprise-admin/index.md)** | Simplify your pull request review process with AI-powered insights, highlighting potential issues and improvements. |
-| **[Get Insights](./enterprise-admin/dashboard.md)** | Get statistics of usage and tools ROI on the individual, team, and organization levels [Currently available for Enterprise plan only, coming soon to all other plans]. |
-| **[Connect your PR-Agent Pro](./general/pr-agent.md)** | Connect your git provider account to your CodiumAI account to enjoy a. |
+| **[Manage Account](./developer-and-teams-member/index.md)**  | TBD |
+| **[Manage Teams & Roles](./teams-admin/index.md)** | Upgrade your account to gain access to premium features, Edit account details and payment methods, and view invoices. |
+| **[Manage Organizations & Roles](./enterprise-admin/index.md)** | Manage enterprise features TBD |
+| **[Get Insights](./enterprise-admin/dashboard)** | Get statistics of usage and tools ROI on the individual, team, and organization levels [Currently available for Enterprise plan only, coming soon to all other plans]. |
+| **[Connect your PR-Agent Pro](./general/pr-agent)** | Connect your git provider account to your CodiumAI account to enjoy the best PR review tool. |
 
 
 ## The Home Tab

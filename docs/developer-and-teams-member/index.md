@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/laptop
+icon: fontawesome/solid/laptop-code
 
 ---
 
