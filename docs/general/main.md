@@ -10,7 +10,7 @@ Dashboard. The dashboard offers the following features:
 
 -   Install qodoMate extension in your IDE
 
--   Connect PR-agents to repositories,
+-   Connect qodoPR to repositories,
 
 -   Invite members to join dIscord community, and
 

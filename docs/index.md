@@ -50,7 +50,7 @@ qodoMate's User Portal comes packed with features to enhance every step of your 
 | **[Manage Teams & Roles](./teams-admin/index.md)** | Upgrade your account to gain access to premium features, Edit account details and payment methods, and view invoices. |
 | **[Manage Organizations & Roles](./enterprise-admin/index.md)** | TBD Manage enterprise features. |
 | **[Get Insights](./enterprise-admin/dashboard)** | Get statistics of usage and tools ROI on the individual, team, and organization levels [Currently available for Enterprise plan only, coming soon to all other plans]. |
-| **[Connect your PR-Agent Pro](./general/pr-agent)** | Get the best PR review tool by connecting your git provider and Qodo accounts. |
+| **[Connect your qodoPR Pro](./general/pr-agent)** | Get the best PR review tool by connecting your git provider and Qodo accounts. |
 
 
 ## The Home Tab
