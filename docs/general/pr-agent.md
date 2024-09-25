@@ -14,7 +14,7 @@ icon: fontawesome/solid/laptop-code
 
     ![pr-agent_1](../assets/pr-agent_1.png)
 
-3.  Click on the "Connect" button. Authenticate and authorize Codium to connect
+3.  Click on the "Connect" button. Authenticate and authorize Qodo to connect
     your repository.
 
 4.  Configure the PR (Pull Request) agent settings as needed. For more information, refer to  [(https://codium-ai.github.io/docs/pragent/)](https://codium-ai.github.io/docs/pragent/) 

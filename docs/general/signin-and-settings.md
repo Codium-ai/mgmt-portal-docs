@@ -7,7 +7,7 @@ icon: fontawesome/solid/laptop-code
 
 ### Step 1: Access the Sign Up page
 
-Open your web browser and navigate to the codium sign-in page [(https://app.codium.ai/signin)](https://app.codium.ai/signin) 
+Open your web browser and navigate to the Qodo sign-in page [(https://app.qodo.ai/signin)](https://app.qodo.ai/signin) 
 
 ### Step 2: Choose Your Sign Up Method
 
@@ -60,19 +60,19 @@ On the sign up page, you will be presented with three options for signing up:
 2.  Click the verification link to activate your account.
 
 
-## Accepting an Invitation to join CodiumAI
+## Accepting an Invitation to join Qodo
 
 1.  Open your email inbox associated with the invitation. Look for an email from
-    Codium with the subject line "**Join your team - enjoy CodiumAI**".
+    Qodo with the subject line "**Join your team - enjoy Qodo**".
 
 2.  Inside the email, locate and click on the "**Accept the Invite**" button.
-    This will redirect you to the Codium login
+    This will redirect you to the Qodo login
   
     ![accepting_invitation](../assets/accepting_invitation.png)
 
 3.  Enter the same email address that received the invitation.
 
-4.  Click the "**Continue with email**" button to access your Codium account. Click the **Login** button to access your Codium account.
+4.  Click the "**Continue with email**" button to access your Qodo account. Click the **Login** button to access your Qodo account.
 
 
 ## Account Settings
@@ -89,6 +89,6 @@ To access the account settings, click on the profile icon located the upper righ
 
 -   **Go to Docs**: Visit the documentation section.
 
--   **Sign Out**: Sign out of your Codium account.
+-   **Sign Out**: Sign out of your Qodo account.
 
     ![account_settings](../assets/account_settings.png) 

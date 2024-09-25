@@ -9,7 +9,7 @@ icon: fontawesome/solid/people-group
 
 To create a new team:
 
-1.  On the Codium dashboard, select the "**My Team**" tab, then click on
+1.  On the Qodo dashboard, select the "**My Team**" tab, then click on
     the "**Create Team**" button. 
 
     ![create_team](../assets/create_team.png)
@@ -62,7 +62,7 @@ You can add new members to the team by inviting them. To invite an team member:
     ![invite_member_1](../assets/invite_member_1.png)
 
 2.  Enter the email addresses of the individuals you wish to invite to the
-    Codium community.
+    Qodo community.
 
 3.  It is also possible to extend an invitation to members from a file. To
     invite members from a file, simply place the file in the "**Drop file

@@ -5,10 +5,10 @@ icon: fontawesome/solid/laptop-code
 
 ## Portal as individual
 
-Once you have successfully logged in, you will be directed to the Codium
+Once you have successfully logged in, you will be directed to the Qodo
 Dashboard. The dashboard offers the following features:
 
--   Install CodiumAI extension in your IDE
+-   Install qodoMate extension in your IDE
 
 -   Connect PR-agents to repositories,
 
@@ -16,7 +16,7 @@ Dashboard. The dashboard offers the following features:
 
 -   Invite team members to join your team.
 
-## Install Codium Extension for Supported IDEs 
+## Install qodoMate Extension for Supported IDEs 
 
 ![account_settings](../assets/supported_IDE.png)
 
@@ -26,15 +26,15 @@ Dashboard. The dashboard offers the following features:
 2.  Select your preferred IDE from the list (e.g., Visual Studio Code, IntelliJ
     IDEA, etc.).
 
-3.  Follow the on-screen instructions to download and install the Codium
+3.  Follow the on-screen instructions to download and install the qodoMate
     extension for the selected IDE.
 
-4.  Once installed, the extension will enhance your IDE with Codium's features.
+4.  Once installed, the extension will enhance your IDE with qodoMate's features.
 
 
-## Join CodiumAI Discord Community
+## Join Qodo Discord Community
 
-![join_codium](../assets/join_codium.png)
+![join_qodo](../assets/join_codium.png)
 
 1.  On the dashboard, locate and click on the "**Join Discord**" link. The
     discord homepage will be displayed.
@@ -53,7 +53,7 @@ Dashboard. The dashboard offers the following features:
 
     ![invite_member_drop_file](../assets/invite_member_drop_file.png)
 
-2.  Enter the email addresses of the individuals you wish to invite to the Codium community.
+2.  Enter the email addresses of the individuals you wish to invite to the Qodo community.
 
 3.  It is also possible to extend an invitation to members from the file. To
     invite members from a file, simply place the file in the "**Drop file
