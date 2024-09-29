@@ -8,15 +8,15 @@ icon: fontawesome/solid/laptop-code
 Once you have successfully logged in, you will be directed to the Qodo
 Dashboard. The dashboard offers the following features:
 
--   Install qodoMate extension in your IDE
+-   Install qodo Gen extension in your IDE
 
--   Connect qodoPR to repositories,
+-   Connect qodo Merge to repositories,
 
 -   Invite members to join dIscord community, and
 
 -   Invite team members to join your team.
 
-## Install qodoMate Extension for Supported IDEs 
+## Install qodo Gen Extension for Supported IDEs 
 
 ![account_settings](../assets/supported_IDE.png)
 
@@ -26,10 +26,10 @@ Dashboard. The dashboard offers the following features:
 2.  Select your preferred IDE from the list (e.g., Visual Studio Code, IntelliJ
     IDEA, etc.).
 
-3.  Follow the on-screen instructions to download and install the qodoMate
+3.  Follow the on-screen instructions to download and install the qodo Gen
     extension for the selected IDE.
 
-4.  Once installed, the extension will enhance your IDE with qodoMate's features.
+4.  Once installed, the extension will enhance your IDE with qodo Gen's features.
 
 
 ## Join Qodo Discord Community

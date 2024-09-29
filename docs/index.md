@@ -25,24 +25,24 @@ Welcome to Qodo's Insight-Agent, designed to:
 
 <div class="grid cards" markdown>
 Go to your management portal at [**app.qodo.ai**](https://app.qodo.ai/)</div>
-Alternatively, you can access the portal from qodoMate: click the three dots at the top-right of the extension, then choose User Portal.
+Alternatively, you can access the portal from qodo Gen: click the three dots at the top-right of the extension, then choose User Portal.
 
 <div class="grid cards" markdown>
 
 -  __VSCode__ 
 
-    [:octicons-arrow-right-24: Install qodoMate extension for VSCode](https://marketplace.visualstudio.com/items?itemName=Codium.codium)
+    [:octicons-arrow-right-24: Install qodo Gen extension for VSCode](https://marketplace.visualstudio.com/items?itemName=Codium.codium)
 
 - :simple-jetbrains: __JetBrains__ 
     
-    [:octicons-arrow-right-24: Install qodoMate plugin for all JetBrains IDEs](https://plugins.jetbrains.com/plugin/21206-codiumate--code-test-and-review-with-confidence--by-codiumai)
+    [:octicons-arrow-right-24: Install qodo Gen plugin for all JetBrains IDEs](https://plugins.jetbrains.com/plugin/21206-codiumate--code-test-and-review-with-confidence--by-codiumai)
 
 </div>
 
 
 ## Main capabilities
 
-qodoMate's User Portal comes packed with features to enhance every step of your development cycle:
+qodo Gen's User Portal comes packed with features to enhance every step of your development cycle:
 
 | Method      | Description                          |
 | ----------- | ------------------------------------ |
@@ -50,7 +50,7 @@ qodoMate's User Portal comes packed with features to enhance every step of your 
 | **[Manage Teams & Roles](./teams-admin/index.md)** | Upgrade your account to gain access to premium features, Edit account details and payment methods, and view invoices. |
 | **[Manage Organizations & Roles](./enterprise-admin/index.md)** | TBD Manage enterprise features. |
 | **[Get Insights](./enterprise-admin/dashboard)** | Get statistics of usage and tools ROI on the individual, team, and organization levels [Currently available for Enterprise plan only, coming soon to all other plans]. |
-| **[Connect your qodoPR Pro](./general/pr-agent)** | Get the best PR review tool by connecting your git provider and Qodo accounts. |
+| **[Connect your qodo Merge Pro](./general/pr-agent)** | Get the best PR review tool by connecting your git provider and Qodo accounts. |
 
 
 ## The Home Tab
