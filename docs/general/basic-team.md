@@ -11,7 +11,7 @@ icon: fontawesome/solid/laptop-code
 
     ![invite_member_drop_file](../assets/invite_member_drop_file.png)
 
-2.  Enter the email addresses of the individuals you wish to invite to the Codium community.
+2.  Enter the email addresses of the individuals you wish to invite to the Qodo community.
 
 3.  It is also possible to extend an invitation to members from the file. To
     invite members from a file, simply place the file in the "**Drop file
@@ -20,7 +20,7 @@ icon: fontawesome/solid/laptop-code
 4.  Click " **Invites**" to dispatch the invitations.
 
 
-## Managing Your Team in Codium
+## Managing Your Team in Qodo
 
 As a team member, you do not have the authority to manage any team. You can only view the team you are part of. However, the admin can grant you administrative rights if needed.
 

@@ -15,7 +15,7 @@ team’s subscription or plan details.
 
 ## Upgrading plan
 
-Upgrade your plan to ensure your team has access to the best features and resources Codium has to offer. Follow the steps below to upgrade your plan.
+Upgrade your plan to ensure your team has access to the best features and resources Qodo has to offer. Follow the steps below to upgrade your plan.
 
 1.  Click on the "Upgrade Now" button located at the top upper corner of the
     dashboard.  
